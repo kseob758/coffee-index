@@ -1,6 +1,7 @@
 # 커피 지수(coffee index)
+<br>
 <p align="center">
-  <img src="https://github.com/kseob758/coffee-index/assets/125840318/c152bd38-fffd-429b-a36e-56f9980b0a90" width=750>
+  <img src="https://github.com/kseob758/coffee-index/assets/125840318/c152bd38-fffd-429b-a36e-56f9980b0a90" width=850>
 </p>
 
 ### 주제
