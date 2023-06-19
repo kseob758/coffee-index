@@ -1,4 +1,8 @@
 # 커피 지수(coffee index)
+<p align="center">
+  <img src="https://github.com/kseob758/coffee-index/assets/125840318/c152bd38-fffd-429b-a36e-56f9980b0a90" width=750>
+</p>
+
 ### 주제
 - 서울시 카페 프랜차이즈 매장 수를 이용하여 경제 지표 만들기
 - 카페 매장의 분포만으로도 서울 “지역(구)별 구매력”을 평가, 비교 가능
