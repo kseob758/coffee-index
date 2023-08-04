@@ -1,7 +1,7 @@
 # 커피 지수(coffee index)
 <br>
 <p align="center">
-  <img src="https://github.com/kseob758/coffee-index/assets/125840318/c152bd38-fffd-429b-a36e-56f9980b0a90" width=850>
+  <img src="https://github.com/kseob758/coffee-index/assets/125840318/bfac0a85-1af2-4fdc-a4c8-522db8a711dc" width=850>
 </p>
 
 ### 주제
@@ -27,7 +27,7 @@
 <br>
 
 ### 데이터 수집
-- 카페 매장은 각 카페별로 BeautifulSoup, Selenium 등을 사용하여 수집
+- 카페 매장 데이터 각 브랜드별로 BeautifulSoup, Selenium 등을 사용하여 수집
 - 서울시 경제, 인구, 사업체 등은 KOSIS에서 수집
 <br>
 
